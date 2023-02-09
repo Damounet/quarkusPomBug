@@ -1,0 +1,57 @@
+#Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# IntelliJ
+.idea
+*.ipr
+*.iml
+*.iws
+
+# NetBeans
+nb-configuration.xml
+
+# Visual Studio Code
+.factorypath
+.vscode/
+
+# OSX
+.DS_Store
+
+# Vim
+*.swp
+*.swo
+
+# patch
+*.orig
+*.rej
+
+# Local environment
+.env
+config.json
+
+# Frontend
+node_modules/
+.vscode/
+build/
+out-tsc/
+dist/
+node/
+tsconfig.
+package-lock.json
+
+# Nicos-API
+temp-storage/
+.apt_generated/
+.apt_generated_tests/
+service.properties
+*.jfr
